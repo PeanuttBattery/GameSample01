@@ -5,6 +5,7 @@ using UnityEngine;
 public class Destroyer : MonoBehaviour
 {
     public GameObject explosion;
+    // Add a logic of the code here
 
     public void destroyExplosion()
     {
